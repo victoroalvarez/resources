@@ -1,4 +1,3 @@
-Technology and science resources by Victor O. Alvarez
 ## Art
 - [Vector Synthesis - Facebook](https://www.facebook.com/groups/vectorsynthesis/)
 ## Business
