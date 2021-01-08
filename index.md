@@ -1,4 +1,3 @@
-# Resources
 ## Art
 - [Vector Synthesis - Facebook](https://www.facebook.com/groups/vectorsynthesis/)
 
