@@ -80,6 +80,7 @@
 - [Hack a day](https://hackaday.com/category/security-hacks/)
 - [Hack the Box](https://www.hackthebox.eu/)
 - [Modern Binary Exploitation by RPISEC](https://github.com/RPISEC/MBE)
+- [Motherboard Guide How not to get Hacked](https://www.vice.com/en/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
 - [National security archive](https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index) The CyberWar Map is a visual guide to some of the most prominent players and events in state-to-state cyberconflict created as a part of the National Security Archive's Cyber Vault Project. This resource focuses on state-sponsored hacking and cyber-attacks.
 - [Is Your Son a Computer Hacker?](http://www.adequacy.org/stories/2001.12.2.42056.2147.html) A hilarious joke in which a fathers explains how to recognize if your son has descended down the early 2000's "hacker" rabbit hole.
 
