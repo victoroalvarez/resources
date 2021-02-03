@@ -59,8 +59,8 @@
 - [Engineering and Leadership](https://www.engineeringandleadership.com/) Leadership in engineering blog.
 
 ## Software
-- [Introduction to Ruby](https://ruby-doc.org/docs/Tutorial/)
 - [Basic GIT Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+- [Introduction to Ruby](https://ruby-doc.org/docs/Tutorial/)
 - [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
 
 ### Apps
